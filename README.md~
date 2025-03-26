@@ -22,7 +22,7 @@ Architecture:
 ### Getting Started
 
 ```bash
-git clone https://github.com/nguyen599/LLM-20-questions.git
+git https://github.com/nguyen599/LLM-20-questions.git
 ```
 
 #### Additional Data
